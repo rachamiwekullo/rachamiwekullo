@@ -2,7 +2,9 @@
 
 **Python Developer | Automation & AI Tools**
 
-I'm based in Bungoma, Kenya, and I turn raw data into clear insights and practical solutions for businesses, farms, schools, and individuals.
+I am based in Bungoma, Kenya, 
+
+I turn raw data into clear insights and practical solutions for businesses, farms, schools, and individuals.
 
 ## What I Build
 
