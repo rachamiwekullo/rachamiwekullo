@@ -1,4 +1,4 @@
-# Hello, I'm Rachami Elvis
+# Hello, I am Rachami Elvis
 
 **Python Developer | Automation & AI Tools**
 
